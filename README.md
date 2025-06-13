@@ -1,1 +1,3 @@
-# trusted-web-promotion-council
+デジタル庁デジタル社会共通機能グループ
+
+Trusted Web 推進協議会の公開ドキュメント
